@@ -1,0 +1,40 @@
+{
+  "name": "lapyn",
+  "version": "0.1.0",
+  "description": "Inspect and author Lapyn designs through the Code Mode MCP.",
+  "author": {
+    "name": "Lapyn",
+    "email": "hello@lapyn.com",
+    "url": "https://lapyn.com"
+  },
+  "homepage": "https://lapyn.com",
+  "repository": "https://github.com/uselapyn/lapyn-plugins",
+  "keywords": [
+    "lapyn",
+    "design",
+    "code-mode",
+    "mcp"
+  ],
+  "skills": "./skills/",
+  "mcpServers": "./.mcp.json",
+  "interface": {
+    "displayName": "Lapyn",
+    "shortDescription": "Inspect and author designs in Lapyn",
+    "longDescription": "Connect Codex to Lapyn Code Mode to inspect project structure, author visual compositions, refine existing designs, and render reviewable previews.",
+    "developerName": "Lapyn",
+    "category": "Creativity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "composerIcon": "./assets/icon.svg",
+    "logo": "./assets/icon.svg",
+    "websiteURL": "https://lapyn.com",
+    "defaultPrompt": [
+      "Inspect my Lapyn design and explain its structure.",
+      "Create a polished screen in my Lapyn project.",
+      "Refine the selected design in Lapyn."
+    ]
+  }
+}
