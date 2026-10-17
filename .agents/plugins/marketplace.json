@@ -1,0 +1,20 @@
+{
+  "name": "lapyn-staging",
+  "interface": {
+    "displayName": "Lapyn Staging"
+  },
+  "plugins": [
+    {
+      "name": "lapyn",
+      "source": {
+        "source": "local",
+        "path": "./plugins/lapyn"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "lapyn",
+  "displayName": "Lapyn (Staging)",
+  "version": "0.1.0+staging.60e0e311e971",
+  "description": "Inspect and author Lapyn designs through the Code Mode MCP.",
+  "author": {
+    "name": "Lapyn",
+    "email": "hello@lapyn.com",
+    "url": "https://lapyn.com"
+  },
+  "homepage": "https://lapyn.com",
+  "repository": "https://github.com/uselapyn/lapyn-plugins",
+  "keywords": [
+    "lapyn",
+    "design",
+    "code-mode",
+    "mcp"
+  ],
+  "icon": "./assets/icon.png"
+}

@@ -1,0 +1,25 @@
+{
+  "name": "lapyn-staging",
+  "owner": {
+    "name": "Lapyn",
+    "email": "hello@lapyn.com",
+    "url": "https://lapyn.com"
+  },
+  "metadata": {
+    "description": "Lapyn Staging plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "lapyn",
+      "source": "./plugins/lapyn",
+      "description": "Inspect and author Lapyn designs through the Code Mode MCP.",
+      "category": "design",
+      "keywords": [
+        "lapyn",
+        "design",
+        "code-mode",
+        "mcp"
+      ]
+    }
+  ]
+}
