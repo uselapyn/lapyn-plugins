@@ -50,7 +50,7 @@ Express these as complete axis values: `width: lapyn.sizing.fill()`, `height: la
 
 A fill child cannot size a hugging parent on the same axis. Check constraints, fixed children, gaps, padding, and remaining space. Text and child alignment differ.
 
-For `flow: "stack"`, parent `align`/`justify` supply horizontal/vertical defaults. Override a child with `lapyn.props.alignment({ horizontal, vertical })`. Generic `self` is the row/column cross-axis override; `transform.offset` is post-layout displacement, not centering. See `lapyn.docs.describe("props.alignment")` for a centered-stack example.
+For `flow: "stack"`, parent `align`/`justify` supply horizontal/vertical defaults. Override a child with `lapyn.props.alignment({ horizontal, vertical })`. Generic `self` is the row/column cross-axis override; `transform.offset` is post-layout displacement, not centering. See `sdk_reference` with topic `props.alignment` for a centered-stack example.
 
 ## Visual semantics
 

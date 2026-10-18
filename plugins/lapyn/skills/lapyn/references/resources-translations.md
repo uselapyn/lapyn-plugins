@@ -16,4 +16,4 @@ The mutation reopens with the discovered project and revision. Reuse an existing
 
 When converting requested literal text, preserve the canonical rich blocks as the source locale and bind the new translation handle in the same commit. Never flatten rich text, fabricate other locales, or author `props.text.value` directly.
 
-Call `lapyn.docs.describe('editor.references')`, `editor.translations`, and `editor.read` for exact current signatures and focused examples.
+Call `sdk_reference` with topic `editor.references`, `editor.translations`, or `editor.read` for exact current signatures and focused examples.

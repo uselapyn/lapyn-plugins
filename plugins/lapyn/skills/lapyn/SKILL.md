@@ -5,7 +5,7 @@ description: Operate an authorized Lapyn design through Code Mode MCP, or diagno
 
 # Lapyn
 
-Use the connected `code` tool as the authority for design state and mutation. Generated JavaScript imports only `{ lapyn }` from `lapyn-sdk.js`; the live declaration and `lapyn.docs` own exact signatures.
+Use the connected `code` tool as the authority for design state and mutation. Generated JavaScript imports only `{ lapyn }` from `lapyn-sdk.js`; the `sdk_reference` tool owns exact signatures; before authoring, read the topics or groups you use (`props.layout`, `props`, or `all`).
 
 ## Choose the execution path first
 
