@@ -12,5 +12,7 @@
   "repository": "https://github.com/uselapyn/lapyn-plugins",
   "license": "Apache-2.0",
   "keywords": ["lapyn", "design", "code-mode", "mcp"],
-  "icon": "./assets/icon.png"
+  "icon": "./assets/icon.png",
+  "privacyPolicyUrl": "https://lapyn.com/legal/privacy",
+  "termsOfServiceUrl": "https://lapyn.com/legal/terms"
 }
