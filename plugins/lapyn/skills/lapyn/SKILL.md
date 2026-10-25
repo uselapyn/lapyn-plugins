@@ -5,9 +5,9 @@ description: Operate an authorized Lapyn design through Code Mode MCP, or diagno
 
 # Lapyn
 
-This skill ships with Lapyn plugin `0.2.0+staging.02ec63a8a849`. Lapyn designs are read and edited by running JavaScript against the Lapyn SDK with the `code` tool; `sdk_reference` is that SDK's documentation.
+This skill ships with Lapyn plugin `0.2.0+staging.66c2153cdfc0`. Lapyn designs are read and edited by running JavaScript against the Lapyn SDK with the `code` tool; `sdk_reference` is that SDK's documentation.
 
-1. Before your first `code` call in a session, call `sdk_reference` without a topic and with `plugin: "0.2.0+staging.02ec63a8a849"`. It returns an overview of the SDK and its topic list. If it reports that the plugin is outdated, tell the user once how to update it.
+1. Before your first `code` call in a session, call `sdk_reference` without a topic and with `plugin: "0.2.0+staging.66c2153cdfc0"`. It returns an overview of the SDK and its topic list. If it reports that the plugin is outdated, tell the user once how to update it.
 2. Before writing code, look up the topics or groups your code uses, such as `props.layout`, `props` or `drafts`, for their exact signatures and usage notes.
 3. Run the JavaScript with the `code` tool.
 
