@@ -1,8 +1,8 @@
 {
   "name": "lapyn",
   "displayName": "Lapyn (Staging)",
-  "version": "0.2.0+staging.dd391bbc5948",
-  "description": "Inspect and author Lapyn designs through the Code Mode MCP.",
+  "version": "0.2.0+staging.02ec63a8a849",
+  "description": "Lapyn lets Claude create and evolve structured UI designs, from localized content to implementation-ready code.",
   "author": {
     "name": "Lapyn",
     "email": "hello@lapyn.com",
@@ -10,6 +10,7 @@
   },
   "homepage": "https://lapyn.com",
   "repository": "https://github.com/uselapyn/lapyn-plugins",
+  "license": "Apache-2.0",
   "keywords": [
     "lapyn",
     "design",

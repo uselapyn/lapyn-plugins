@@ -12,7 +12,7 @@
     {
       "name": "lapyn",
       "source": "./plugins/lapyn",
-      "description": "Inspect and author Lapyn designs through the Code Mode MCP.",
+      "description": "Lapyn lets Claude create and evolve structured UI designs, from localized content to implementation-ready code.",
       "category": "design",
       "keywords": [
         "lapyn",
