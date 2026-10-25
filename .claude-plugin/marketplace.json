@@ -14,7 +14,7 @@
       "source": "./plugins/lapyn",
       "description": "Lapyn lets Claude create and evolve structured UI designs, from localized content to implementation-ready code.",
       "category": "design",
-      "keywords": ["lapyn", "design", "code-mode", "mcp"]
+      "keywords": ["lapyn", "design", "ui", "prototyping", "localization", "translation"]
     }
   ]
 }
