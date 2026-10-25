@@ -1,6 +1,6 @@
 {
   "name": "lapyn",
-  "version": "0.2.0+staging.66c2153cdfc0",
+  "version": "0.2.0+staging.54fd9f2bc7dc",
   "description": "Inspect and author Lapyn designs through the Code Mode MCP.",
   "author": {
     "name": "Lapyn",
@@ -13,8 +13,10 @@
   "keywords": [
     "lapyn",
     "design",
-    "code-mode",
-    "mcp"
+    "ui",
+    "prototyping",
+    "localization",
+    "translation"
   ],
   "skills": "./skills/",
   "mcpServers": "./.mcp.json",

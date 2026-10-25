@@ -1,7 +1,7 @@
 {
   "name": "lapyn",
   "displayName": "Lapyn (Staging)",
-  "version": "0.2.0+staging.66c2153cdfc0",
+  "version": "0.2.0+staging.54fd9f2bc7dc",
   "description": "Lapyn lets Claude create and evolve structured UI designs, from localized content to implementation-ready code.",
   "author": {
     "name": "Lapyn",
@@ -14,8 +14,10 @@
   "keywords": [
     "lapyn",
     "design",
-    "code-mode",
-    "mcp"
+    "ui",
+    "prototyping",
+    "localization",
+    "translation"
   ],
   "icon": "./assets/icon.png",
   "privacyPolicyUrl": "https://lapyn.com/legal/privacy",
