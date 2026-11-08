@@ -1,7 +1,7 @@
 {
   "name": "lapyn",
   "displayName": "Lapyn",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Lapyn lets Claude create and evolve structured UI designs, from localized content to implementation-ready code.",
   "author": {
     "name": "Lapyn",
