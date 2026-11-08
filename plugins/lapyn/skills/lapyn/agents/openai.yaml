@@ -1,7 +1,7 @@
 interface:
   display_name: "Lapyn"
   short_description: "Operate designs through Lapyn Code Mode"
-  icon_small: "./assets/icon-small.svg"
+  icon_small: "./assets/icon-small.png"
   default_prompt: "Use $lapyn to inspect or update my connected Lapyn design."
 
 policy:

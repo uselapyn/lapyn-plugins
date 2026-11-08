@@ -1,7 +1,7 @@
 {
   "name": "lapyn",
   "displayName": "Lapyn (Staging)",
-  "version": "0.2.0+staging.54fd9f2bc7dc",
+  "version": "0.2.1+staging.731a6a1a1441",
   "description": "Lapyn lets Claude create and evolve structured UI designs, from localized content to implementation-ready code.",
   "author": {
     "name": "Lapyn",
