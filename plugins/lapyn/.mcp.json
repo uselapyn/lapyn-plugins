@@ -2,8 +2,7 @@
   "mcpServers": {
     "lapyn": {
       "type": "http",
-      "url": "https://staging.lapyn.com/api/flow/v2/mcp",
-      "oauth_resource": "https://staging.lapyn.com/api/flow/v2/mcp"
+      "url": "https://staging.lapyn.com/api/flow/v2/mcp"
     }
   }
 }
